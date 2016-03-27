@@ -1,4 +1,4 @@
 nodejs-lts-docker
 =============
 
-Образ [NodeJS](https://nodejs.org/) LTS версии для [docker](https://docker.io)
+РћР±СЂР°Р· [NodeJS](https://nodejs.org/) LTS РІРµСЂСЃРёРё РґР»СЏ [docker](https://docker.io)
